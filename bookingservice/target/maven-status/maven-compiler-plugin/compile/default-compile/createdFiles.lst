@@ -1,0 +1,9 @@
+com\hackathon\ebooks\bookingservice\BookingserviceApplication.class
+com\hackathon\ebooks\bookingservice\model\User.class
+com\hackathon\ebooks\bookingservice\repository\UserRepository.class
+com\hackathon\ebooks\bookingservice\service\BookService.class
+com\hackathon\ebooks\bookingservice\model\Book$BookBuilder.class
+com\hackathon\ebooks\bookingservice\model\Book.class
+com\hackathon\ebooks\bookingservice\repository\BookRepository.class
+com\hackathon\ebooks\bookingservice\controller\BookController.class
+com\hackathon\ebooks\bookingservice\model\User$UserBuilder.class

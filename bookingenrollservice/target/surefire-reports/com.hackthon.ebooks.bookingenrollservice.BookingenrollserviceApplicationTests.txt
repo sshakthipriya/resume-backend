@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hackthon.ebooks.bookingenrollservice.BookingenrollserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.151 s - in com.hackthon.ebooks.bookingenrollservice.BookingenrollserviceApplicationTests

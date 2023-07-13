@@ -1,0 +1,12 @@
+com\hackathon\ebooks\inventoryservice\controller\BookController.class
+com\hackathon\ebooks\inventoryservice\model\Book.class
+com\hackathon\ebooks\inventoryservice\repository\UserRepository.class
+com\hackathon\ebooks\inventoryservice\model\User.class
+com\hackathon\ebooks\inventoryservice\service\BookInventoryService.class
+com\hackathon\ebooks\inventoryservice\model\Book$BookBuilder.class
+com\hackathon\ebooks\inventoryservice\service\UserService.class
+com\hackathon\ebooks\inventoryservice\repository\BookRepository.class
+com\hackathon\ebooks\inventoryservice\InventoryServiceApplication.class
+com\hackathon\ebooks\inventoryservice\model\User$UserBuilder.class
+com\hackathon\ebooks\inventoryservice\dto\BookResponse.class
+com\hackathon\ebooks\inventoryservice\dto\BookResponse$BookResponseBuilder.class
